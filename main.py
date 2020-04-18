@@ -68,7 +68,7 @@ def main():
           "\_|   \__, \_|   |_|_|\___\_|  |_/\___/ \_/ |_|\n"
           "       __/ |\n"
           "      |___/  \n")
-    print("PyFileMovr - Created by: math280h - Found at: github goes here\n")
+    print("PyFileMovr - Created by: math280h - Found at: https://github.com/math280h/PyFileMovr\n")
 
     if args.debug:
         print("Input path:", args.input, " Output path:", args.output, "\n")
